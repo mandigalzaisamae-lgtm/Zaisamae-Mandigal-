@@ -31,7 +31,7 @@
 ---
 
 ## 💻 Software Used
-- **PCB Design**: EasyEDA
+- **PCB Design**: EasyEDA/KiCad Files,Schematic Files, Editable Design Files
 - **Firmware Development**: Arduino IDE, ESP-IDF,
 - **Documentation**: Word, or Google Docs
 
@@ -39,6 +39,8 @@
 
 ## 👤 Author Name
  -Author:Zaisamae Mandigal 
+
+
 
  -Gmail : mandigalzaisamae@gmail.com
 
