@@ -1,39 +1,36 @@
+ECE_ESP32_PCB_Mandigal_EN1B
+
 # ESP32 EXPANSION BOARD
 
-## Project Description
+##🗨️ Project Description
 
-   The **ESP32 Expansion Board** is a custom-designed add-on module built to simplify prototyping, testing, and development using the ESP32 microcontroller. It breaks out all essential pins, adds built-in power regulation, and includes dedicated ports for sensors, actuators, displays, and communication modules—making it easier to build IoT, automation, robotics, and embedded systems projects without complex wiring or loose connections.
+This project is an ESP32-based Printed Circuit Board (PCB) developed for Electronics Engineering coursework. The design provides a reliable platform for embedded system applications, allowing wireless communication, sensor integration, and microcontroller-based automation projects.
 
----
+##✨Features
 
-## ✨ Features
-- **Full Pin Breakout**: All GPIO, power, communication, and control pins from the ESP32 are clearly labeled and accessible.
-- **Onboard Power Management**: Supports 5V–12V external input, with built-in voltage regulators to supply stable 3.3V and 5V power for the ESP32 and connected devices.
-- **Standardized Interfaces**: Includes ports for I2C, SPI, UART, ADC, DAC, PWM, and digital I/O.
-- **Built-in Components**: Onboard LEDs, reset button, user-programmable button, and optional voltage level shifters for 5V-compatible devices.
-- **Mounting Holes**: Standard-sized holes for secure installation on enclosures or project bases.
-- **Compact & Robust Design**: Optimized size, clear silkscreen labels, and durable PCB material for long-term use.
-
----
+- ESP32 microcontroller support
+- Compact and efficient PCB layout
+- Wi-Fi and Bluetooth connectivity
+- Easy integration with sensors and modules
+- Status LED indicators
+- Stable power and signal connections
+- Suitable for IoT and automation projects
 
 ## 🧩 Components Used
-- ESP32-WROOM-32 Module
-- Voltage Regulator (AMS1117-3.3V, 7805 or equivalent)
-- Female & Male Pin Headers
-- LEDs (Power & Status Indicators)
-- Push Buttons (Reset, User)
-- Capacitors & Resistors
-- Terminal Blocks / Screw Connectors
-- PCB Board (FR-4 Material)
 
----
+- ESP32 Development Board
+- Resistors
+- Capacitors
+- LEDs
+- Push Buttons
+- Header Pins
+- Voltage Regulator
+- PCB Board
 
-## 💻 Software Used
-- **PCB Design**: EasyEDA/KiCad Files,Schematic Files, Editable Design Files
-- **Firmware Development**: Arduino IDE, ESP-IDF,
-- **Documentation**: Word, or Google Docs
+##💻Software Used
 
----
+- EasyEDA
+- GitHub
 
 ## 👤 Author Name
  -Author:Zaisamae Mandigal 
@@ -44,3 +41,5 @@
 
 ## 🎓 Course & Section
  BS Electronics Engineering-1B
+
+
