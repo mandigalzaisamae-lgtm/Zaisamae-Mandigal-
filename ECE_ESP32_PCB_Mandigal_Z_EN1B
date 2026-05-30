@@ -6,6 +6,8 @@ ECE_ESP32_PCB_Mandigal_EN1B
 
 This project is an ESP32-based Printed Circuit Board (PCB) developed for Electronics Engineering coursework. The design provides a reliable platform for embedded system applications, allowing wireless communication, sensor integration, and microcontroller-based automation projects.
 
+---
+
 ##✨Features
 
 - ESP32 microcontroller support
@@ -15,6 +17,8 @@ This project is an ESP32-based Printed Circuit Board (PCB) developed for Electro
 - Status LED indicators
 - Stable power and signal connections
 - Suitable for IoT and automation projects
+
+---
 
 ## 🧩 Components Used
 
@@ -27,10 +31,14 @@ This project is an ESP32-based Printed Circuit Board (PCB) developed for Electro
 - Voltage Regulator
 - PCB Board
 
+---
+
 ##💻Software Used
 
 - EasyEDA
 - GitHub
+
+---
 
 ## 👤 Author Name
  -Author:Zaisamae Mandigal 
@@ -41,5 +49,10 @@ This project is an ESP32-based Printed Circuit Board (PCB) developed for Electro
 
 ## 🎓 Course & Section
  BS Electronics Engineering-1B
+
+---
+
+##🌐Sources
+ •
 
 
